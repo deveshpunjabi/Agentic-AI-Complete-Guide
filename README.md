@@ -391,20 +391,20 @@ flowchart TB
 ## 📚 Learning Phases
 
 <div align="center">
-  <img src="https://img.icons8.com/clouds/200/road. png" width="120"/>
+
+  <!-- Roadmap Icon -->
+  <img
+    src="https://img.icons8.com/fluency/200/road.png"
+    width="120"
+    alt="Learning Roadmap"
+  />
+
   <br/><br/>
-  
-  <!-- Progress Overview -->
-  <img src="https://progress-bar.dev/0/? title=Phase%201&width=100&color=3b82f6" alt="Phase 1"/>
-  <img src="https://progress-bar.dev/0/? title=Phase%202&width=100&color=22c55e" alt="Phase 2"/>
-  <img src="https://progress-bar.dev/0/?title=Phase%203&width=100&color=eab308" alt="Phase 3"/>
-  <img src="https://progress-bar.dev/0/? title=Phase%204&width=100&color=f97316" alt="Phase 4"/>
-  <img src="https://progress-bar.dev/0/? title=Phase%205&width=100&color=ef4444" alt="Phase 5"/>
-  <img src="https://progress-bar.dev/0/?title=Phase%206&width=100&color=a855f7" alt="Phase 6"/>
-  <img src="https://progress-bar.dev/0/?title=Phase%207&width=100&color=6366f1" alt="Phase 7"/>
+
 </div>
 
 <br/>
+
 
 <!-- Phase 1 -->
 ### <img src="https://img.icons8.com/fluency/48/1.png" width="30"/> Phase 1: AI & ML Foundations
@@ -479,10 +479,11 @@ ML Basics  ████████░░ 80%
 <br/>
 
 | | Details |
-|: --|:--|
+|:--|:--|
 | ⏱️ **Duration** | Weeks 7-14 |
 | 📊 **Difficulty** | `🟡 Intermediate` |
 | 🎯 **Goal** | Master neural networks & LLMs |
+
 
 #### 📖 What You'll Learn
 - ✅ Neural network architectures (CNNs, RNNs, Transformers)
@@ -542,7 +543,7 @@ RAG        ██████░░░░ 60%
 <br/>
 
 | | Details |
-|: --|:--|
+|:--|:--|
 | ⏱️ **Duration** | Weeks 15-22 |
 | 📊 **Difficulty** | `🟠 Intermediate-Advanced` |
 | 🎯 **Goal** | Build multi-agent systems |
@@ -1219,40 +1220,7 @@ Contributions are what make the open-source community such an amazing place to l
 
 <br/>
 
-<!-- Support Section -->
-## ⭐ Support This Project
-
-<div align="center">
-
-If you found this guide helpful, please consider: 
-
-<br/>
-
-<a href="https://github.com/deveshpunjabi/Agentic-AI-Complete-Guide/stargazers">
-  <img src="https://img.shields.io/badge/⭐_Star_this_repo-yellow?style=for-the-badge&logo=github" alt="Star"/>
-</a>
-<a href="https://github.com/deveshpunjabi/Agentic-AI-Complete-Guide/fork">
-  <img src="https://img.shields.io/badge/🔱_Fork_this_repo-blue?style=for-the-badge&logo=github" alt="Fork"/>
-</a>
-<a href="https://github.com/deveshpunjabi/Agentic-AI-Complete-Guide/issues/new">
-  <img src="https://img.shields.io/badge/💡_Suggest_improvements-green?style=for-the-badge&logo=github" alt="Suggest"/>
-</a>
-
-<br/><br/>
-
-**Share with your network:**
-
-[![Twitter](https://img.shields.io/badge/Share_on_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/tweet?text=Check%20out%20this%20awesome%20Agentic%20AI%20Complete%20Guide! &url=https://github.com/deveshpunjabi/Agentic-AI-Complete-Guide)
-[![LinkedIn](https://img.shields.io/badge/Share_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/deveshpunjabi/Agentic-AI-Complete-Guide)
-[![Reddit](https://img.shields.io/badge/Share_on_Reddit-FF4500? style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/submit?url=https://github.com/deveshpunjabi/Agentic-AI-Complete-Guide&title=Agentic%20AI%20Complete%20Guide)
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
+---
 
 <!-- Footer -->
 <div align="center">
@@ -1283,12 +1251,7 @@ who make learning Agentic AI accessible to everyone.
   <img src="https://img.shields.io/badge/⬆_Back_to_Top-6C63FF?style=for-the-badge" alt="Back to Top"/>
 </a>
 
-<br/><br/>
-
-<!-- Visitor Counter -->
-<img src="https://profile-counter.glitch.me/deveshpunjabi-Agentic-AI-Complete-Guide/count.svg" alt="Visitor Count"/>
-
-<br/>
+---
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
