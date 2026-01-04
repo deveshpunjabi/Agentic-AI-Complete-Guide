@@ -621,7 +621,7 @@ Workflows  ████████░░ 80%
 <br/>
 
 | | Details |
-|: --|:--|
+|:--|:--|
 | ⏱️ **Duration** | Weeks 23-28 |
 | 📊 **Difficulty** | `🔴 Advanced` |
 | 🎯 **Goal** | Master supporting technologies |
@@ -693,7 +693,7 @@ APIs       ████████░░ 80%
 <br/>
 
 | | Details |
-|: --|:--|
+|:--|:--|
 | ⏱️ **Duration** | Weeks 29-34 |
 | 📊 **Difficulty** | `🔴 Advanced` |
 | 🎯 **Goal** | Production-ready deployment |
@@ -708,7 +708,7 @@ APIs       ████████░░ 80%
 #### 🎓 Free Resources
 
 | Resource | Platform | Link |
-|:---------|: ---------|:-----|
+|:---------|:---------|:-----|
 | Arize Phoenix | Arize AI | [🔗 Visit](https://phoenix.arize.com/) |
 | LangSmith | LangChain | [🔗 Visit](https://smith.langchain.com/) |
 | Made With ML | Made With ML | [🔗 Visit](https://madewithml.com/) |
@@ -775,7 +775,7 @@ Security   ██████░░░░ 60%
 <br/>
 
 | | Details |
-|: --|:--|
+|:--|:--|
 | ⏱️ **Duration** | Weeks 35-38 |
 | 📊 **Difficulty** | `🟡 Intermediate` |
 | 🎯 **Goal** | Build user-facing interfaces |
@@ -790,7 +790,7 @@ Security   ██████░░░░ 60%
 #### 🎓 Free Resources
 
 | Resource | Platform | Link |
-|:---------|: ---------|:-----|
+|:---------|:---------|:-----|
 | Gradio | Gradio | [🔗 Visit](https://gradio.app/) |
 | Streamlit Tutorials | Streamlit | [🔗 Visit](https://docs.streamlit.io/) |
 | Chainlit | Chainlit | [🔗 Visit](https://docs.chainlit.io/) |
@@ -838,7 +838,7 @@ Dashboards ██████░░░░ 60%
 <br/>
 
 | | Details |
-|: --|:--|
+|:--|:--|
 | ⏱️ **Duration** | Weeks 39-42 |
 | 📊 **Difficulty** | `🔴 Advanced` |
 | 🎯 **Goal** | Responsible AI deployment |
@@ -966,7 +966,7 @@ Safety     ████████░░ 80%
 </td>
 <td align="center" width="20%">
 <a href="https://www.coursera.org/">
-<img src="https://img.icons8.com/color/96/000000/coursera. png" width="50"/>
+<img src="https://images.ctfassets.net/00atxywtfxvd/2QeS5ysKMhZ3ZjiU2rGRJA/e15df94b265053ce8ded4f5e630241c8/cropped-android-chrome-512x512-1.png" width="50"/>
 <br/><b>Coursera</b>
 </a>
 <br/><sub>University courses (audit free)</sub>
@@ -1002,7 +1002,7 @@ Safety     ████████░░ 80%
 </td>
 <td align="center">
 <a href="https://microsoft.github.io/autogen/">
-<img src="https://img.icons8.com/color/48/000000/microsoft. png" width="30"/>
+<img src="https://img.icons8.com/color/48/000000/microsoft.png" width="30"/>
 <br/><b>AutoGen</b>
 </a>
 </td>
@@ -1037,7 +1037,7 @@ Safety     ████████░░ 80%
 
 | Repository | Description | Stars |
 |:-----------|:------------|:------|
-| [![LangChain](https://img.shields.io/badge/🔗_langchain--ai/langchain-100000?style=flat-square&logo=github)](https://github.com/langchain-ai/langchain) | LangChain framework | ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langchain? style=social) |
+| [![LangChain](https://img.shields.io/badge/🔗_langchain--ai/langchain-100000?style=flat-square&logo=github)](https://github.com/langchain-ai/langchain) | LangChain framework | ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social) |
 | [![AutoGen](https://img.shields.io/badge/🤖_microsoft/autogen-100000?style=flat-square&logo=github)](https://github.com/microsoft/autogen) | Multi-agent conversations | ![GitHub stars](https://img.shields.io/github/stars/microsoft/autogen?style=social) |
 | [![CrewAI](https://img.shields.io/badge/👥_crewAIInc/crewAI-100000?style=flat-square&logo=github)](https://github.com/crewAIInc/crewAI) | Role-based agent teams | ![GitHub stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=social) |
 | [![LlamaIndex](https://img.shields.io/badge/🦙_run--llama/llama__index-100000?style=flat-square&logo=github)](https://github.com/run-llama/llama_index) | LlamaIndex for RAG | ![GitHub stars](https://img.shields.io/github/stars/run-llama/llama_index?style=social) |
@@ -1115,7 +1115,7 @@ PHASE 7 ░░░░░░░░░░░░░░░░░░░░░░░░
 ## 🎨 Capstone Projects
 
 <div align="center">
-  <img src="https://img.icons8.com/clouds/200/project.png" width="120"/>
+  <img src="https://img.icons8.com/color/200/project.png" width="120"/>
 </div>
 
 <br/>
@@ -1126,11 +1126,11 @@ After completing the roadmap, build one of these projects to demonstrate mastery
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/research.png" width="60"/>
+<img src="https://img.icons8.com/fluency/96/lab-items.png" width="60"/>
 <br/><b>🔬 Multi-Agent Research Assistant</b>
 <br/><sub>CrewAI agents that research, write, and fact-check</sub>
 <br/><br/>
-<img src="https://img.shields.io/badge/Difficulty-⭐⭐⭐⭐-orange? style=flat-square"/>
+<img src="https://img.shields.io/badge/Difficulty-⭐⭐⭐⭐-orange?style=flat-square"/>
 </td>
 <td align="center" width="33%">
 <img src="https://img.icons8.com/fluency/96/customer-support.png" width="60"/>
@@ -1140,7 +1140,7 @@ After completing the roadmap, build one of these projects to demonstrate mastery
 <img src="https://img.shields.io/badge/Difficulty-⭐⭐⭐-yellow?style=flat-square"/>
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/code-review.png" width="60"/>
+<img src="https://cdn-icons-png.flaticon.com/512/1541/1541435.png" width="60"/>
 <br/><b>👨‍💻 Autonomous Code Reviewer</b>
 <br/><sub>Agent that reviews PRs and suggests improvements</sub>
 <br/><br/>
@@ -1172,47 +1172,6 @@ After completing the roadmap, build one of these projects to demonstrate mastery
 </tr>
 </table>
 </div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- Contributing Section -->
-## 🤝 Contributing
-
-<div align="center">
-  <img src="https://img.icons8.com/clouds/200/handshake.png" width="120"/>
-</div>
-
-<br/>
-
-Contributions are what make the open-source community such an amazing place to learn and grow.  Any contributions you make are **greatly appreciated**. 
-
-<br/>
-
-<div align="center">
-
-| Step | Action |
-|: ----:|:-------|
-| 1️⃣ | **Fork** the repository |
-| 2️⃣ | **Create** your feature branch (`git checkout -b feature/AmazingFeature`) |
-| 3️⃣ | **Commit** your changes (`git commit -m 'Add some AmazingFeature'`) |
-| 4️⃣ | **Push** to the branch (`git push origin feature/AmazingFeature`) |
-| 5️⃣ | **Open** a Pull Request |
-
-</div>
-
-<br/>
-
-### 💡 Contribution Ideas
-
-- 📝 Add new free resources
-- 🐛 Fix typos or broken links
-- 🌐 Translate to other languages
-- 📚 Add code examples
-- 🎨 Improve documentation
 
 <br/>
 
